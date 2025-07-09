@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+matplotlib
+yfinance
+scikit-learn
+tensorflow==2.11.0
